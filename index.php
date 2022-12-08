@@ -1,3 +1,5 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Sergio González Rubio (CIFP Francesc de Borja Moll)";
+
+?>
